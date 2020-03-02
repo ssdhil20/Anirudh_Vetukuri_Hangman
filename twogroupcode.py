@@ -22,7 +22,7 @@ def checkLetter():
     print(updatedSpaces)
     print(word)
     
-    import random
+import random
 WORDLIST = [""]
 updatedWord = ""
 
@@ -55,3 +55,5 @@ def main():
     
     initialize()
     getLetter()
+    
+    
